@@ -1,3 +1,5 @@
 rusty
 blue\
 scout
+monty 
+mocha
